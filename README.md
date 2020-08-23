@@ -2,9 +2,9 @@
 
 # system_bilgisi_alma.py
 
-used
 + os.name
 + os.uname
 + platform.system()
 + platform.release()
 
+kullanıldı.
