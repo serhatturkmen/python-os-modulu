@@ -2,7 +2,7 @@
 
 # system_bilgisi_alma.py
 
-- used
+used
 + os.name
 + os.uname
 + platform.system()
