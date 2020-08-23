@@ -1,0 +1,1 @@
+# python-os-modülü ile dosya ve sistem işlemleri
