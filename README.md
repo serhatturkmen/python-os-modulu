@@ -8,3 +8,9 @@
 + platform.release()
 
 kullanıldı.
+
+# terminalde_komut_calistirma.py
+
++ os.system()
+
+kullanıldı.
